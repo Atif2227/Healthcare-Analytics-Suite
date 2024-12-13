@@ -13,3 +13,31 @@ This project is licensed under a **Proprietary License**.
 
 For full details, see the [LICENSE](LICENSE) file.
 
+
+### **Description of Key Components**
+- **Data/**: Contains sample datasets used for testing and development.
+- **Scripts/**: Includes SQL scripts for data processing and creating views.
+- **Visualizations/**: Contains Power BI files and screenshots of reports.
+- **Documentation/**: User guides or any related project documentation.
+
+---
+
+### **Placement in README.md**
+Add this section after the project description, like so:
+
+```markdown
+# Healthcare Analytics Suite
+
+## Description
+Healthcare Analytics Suite is a Power BI reporting solution designed for hospitals and healthcare organizations...
+
+## Project Structure
+<Include the structure here>
+
+## How to Use
+<Instructions for using the project>
+
+## License
+See the [LICENSE](LICENSE) file for details.
+
+
