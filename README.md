@@ -4,6 +4,7 @@ Healthcare Analytics Suite is a comprehensive Power BI reporting solution design
 Data is sourced from a PostgreSQL database, organized into SQL views, and validated for accuracy. The reports are tailored to meet client-specific requirements, ensuring insightful and actionable analytics. This solution also involves continuous bug fixing and enhancements for optimal performance and user satisfaction.
 
 ## Project Structure
+```plaintext
 Healthcare-Analytics-Suite/
 ├── Data/
 │   ├── sample_data.csv          # Sample or anonymized dataset for testing
@@ -24,6 +25,7 @@ Healthcare-Analytics-Suite/
 │   ├── client_customization.md  # Notes on customization for different clients
 ├── LICENSE                      # Proprietary license for the project
 ├── README.md                    # Main documentation for the project
+```
 
 ## License
 
