@@ -3,6 +3,28 @@ Healthcare Analytics Suite is a comprehensive Power BI reporting solution design
 
 Data is sourced from a PostgreSQL database, organized into SQL views, and validated for accuracy. The reports are tailored to meet client-specific requirements, ensuring insightful and actionable analytics. This solution also involves continuous bug fixing and enhancements for optimal performance and user satisfaction.
 
+## Project Structure
+Healthcare-Analytics-Suite/
+├── Data/
+│   ├── sample_data.csv          # Sample or anonymized dataset for testing
+│   ├── data_dictionary.xlsx     # Data dictionary explaining database fields
+├── Scripts/
+│   ├── create_views.sql         # SQL script for creating views for IP, OP, Emergency, etc.
+│   ├── data_validation.sql      # SQL script for validating data accuracy
+│   ├── bug_fixing_notes.sql     # SQL notes/scripts for resolving common issues
+├── Visualizations/
+│   ├── HealthcareAnalytics.pbix # Power BI file containing the dashboards
+│   ├── screenshots/
+│       ├── ip_page.png          # Screenshot of the Inpatient (IP) dashboard
+│       ├── op_page.png          # Screenshot of the Outpatient (OP) dashboard
+│       ├── emergency_page.png   # Screenshot of the Emergency dashboard
+│       ├── revenue_page.png     # Screenshot of the Revenue dashboard
+├── Documentation/
+│   ├── user_guide.pdf           # User guide for understanding and using the dashboards
+│   ├── client_customization.md  # Notes on customization for different clients
+├── LICENSE                      # Proprietary license for the project
+├── README.md                    # Main documentation for the project
+
 ## License
 
 This project is licensed under a **Proprietary License**.
@@ -20,24 +42,9 @@ For full details, see the [LICENSE](LICENSE) file.
 - **Visualizations/**: Contains Power BI files and screenshots of reports.
 - **Documentation/**: User guides or any related project documentation.
 
----
 
-### **Placement in README.md**
-Add this section after the project description, like so:
 
-```markdown
-# Healthcare Analytics Suite
 
-## Description
-Healthcare Analytics Suite is a Power BI reporting solution designed for hospitals and healthcare organizations...
 
-## Project Structure
-<Include the structure here>
-
-## How to Use
-<Instructions for using the project>
-
-## License
-See the [LICENSE](LICENSE) file for details.
 
 
