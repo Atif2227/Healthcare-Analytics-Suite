@@ -58,4 +58,4 @@ A comprehensive view of the hospital’s financial health.
 ---
 
 ## 📸 Screenshots
-*(Screenshots are located in the project folder)*
+*(Screenshots and dashboard PDF are in Screenshots folder)*
