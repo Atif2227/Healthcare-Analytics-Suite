@@ -57,5 +57,5 @@ A comprehensive view of the hospital’s financial health.
 
 ---
 
-## 📸 Screenshots
+##    Screenshots
 *(Screenshots and dashboard PDF are in Screenshots folder)*
