@@ -61,3 +61,13 @@ A comprehensive view of the hospital’s financial health.
 
 ## 📸 Screenshots
 *(Screenshots and PDF files are in screenshot folder)*
+
+- **Home Page**
+- **Out-Patients**
+- **Outpatients Performance**
+- **In-Patients**
+- **Procedures**
+- **Surgeries**
+- **Revenue**
+
+---
