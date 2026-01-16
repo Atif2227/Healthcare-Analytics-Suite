@@ -6,6 +6,8 @@ The **YASASII-HIS Data** is hosted in a **PostgreSQL** database, organized into 
 
 ![One of the Page](Screenshots/Medicare%20Global%20PDF_page-0002.jpg)
 
+**[Click here to view the complete PDF report](Screenshots/Medicare%20Global%20PDF.pdf)**
+
 ---
 
 ## 🧠 Purpose
