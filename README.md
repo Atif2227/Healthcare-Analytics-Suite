@@ -62,7 +62,10 @@ A comprehensive view of the hospital’s financial health.
 ---
 
 ## 📸 Screenshots
-*All the screenshots and PDFs are available in the `Screenshots` folder.*
+
+Screenshots
+
+*All the screenshots and PDFs are in the [Screenshot](Screenshots) folder.*
 
 - **Home Page**
 - **Out-Patients**
