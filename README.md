@@ -4,6 +4,8 @@
 
 The **YASASII-HIS Data** is hosted in a **PostgreSQL** database, organized into tables, views, stored procedures, etc. The reports are tailored to meet client-specific requirements, ensuring insightful and actionable analytics. This solution also involves continuous bug fixing and enhancements for optimal performance and user satisfaction.
 
+![One of the Page](Screenshots/Medicare%20Global%20PDF_page-0002.jpg)
+
 ---
 
 ## 🧠 Purpose
@@ -60,7 +62,7 @@ A comprehensive view of the hospital’s financial health.
 ---
 
 ## 📸 Screenshots
-*(Screenshots and PDF files are in screenshot folder)*
+*All the screenshots and PDFs are available in the `Screenshots` folder.*
 
 - **Home Page**
 - **Out-Patients**
