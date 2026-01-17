@@ -3,7 +3,6 @@
 **Healthcare Analytics Suite** is a comprehensive Power BI reporting solution designed for hospitals and healthcare organizations. The project includes interactive and customized dashboards for key areas such as **In-patient (IP), Out-patient (OP), Emergency, Procedures, Surgeries, Revenue, Labs, etc.** This dashboard was imbedded in a multi-tier client-server and internet-based business solution (**YASASII**) that serves as a Hospital Information System (HIS). 
 
 The **YASASII-HIS Data** is hosted in a **PostgreSQL** database, organized into tables, views, stored procedures, etc. The reports are tailored to meet client-specific requirements, ensuring insightful and actionable analytics. This solution also involves continuous bug fixing and enhancements for optimal performance and user satisfaction.
-
 ![One of the Page](Screenshots/Medicare%20Global%20PDF_page-0002.jpg)
 
 **[Click here to view the complete PDF report](Screenshots/Medicare%20Global%20PDF.pdf)**
